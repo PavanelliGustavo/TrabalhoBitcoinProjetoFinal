@@ -11,7 +11,7 @@ Verificar de quem é a carteira externa para onde um cliente saca — a exigênc
 
 | Peça | Link |
 |---|---|
-| 📄 **Artigo (página web / GitHub Pages)** | `https://<ORG-OU-USUARIO>.github.io/<REPO>/` |
+| 📄 **Artigo (página web / GitHub Pages)** | `https://<PavanelliGustavo>.github.io/<TrabalhoBitcoinProjetoFinal>/` |
 | 🎥 **Apresentação (vídeo, 5–10 min)** | `<COLE-AQUI-O-LINK-DO-VÍDEO>` |
 | 📊 **Slides (fonte)** | [`Apresentacao_Titularidade_Bitcoin.pptx`](./Apresentacao_Titularidade_Bitcoin.pptx) |
 | 💻 **Código** | [`bitcoin_lab.py`](./bitcoin_lab.py) · [`binding_protocol.py`](./binding_protocol.py) |
