@@ -28,7 +28,6 @@ Verificar de quem é a carteira externa para onde um cliente saca — a exigênc
 ├── Apresentacao_Titularidade_Bitcoin.pptx   # Slides da apresentação
 ├── bitcoin_lab.py                      # Lab: transação Bitcoin byte a byte + assinatura de mensagem
 ├── binding_protocol.py                 # Protocolo de binding + ataques (validação executável)
-├── Roteiro_Apresentacao.md             # Roteiro de fala (opcional; não é entregável exigido)
 └── README.md
 ```
 
