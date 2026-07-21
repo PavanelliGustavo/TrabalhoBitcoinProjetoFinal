@@ -1,7 +1,7 @@
 # Prova de titularidade de carteiras autocustodiadas
 
 **Projeto Final — Protocolo Bitcoin · 2026/01**
-Autores: **Gustavo Nascimento Pavanelli**
+Autor: **Gustavo Pavanelli**
 
 Verificar de quem é a carteira externa para onde um cliente saca — a exigência que atinge o elo onde o crime organizado toca o sistema formal — já cabe dentro do Bitcoin, com o que ele sempre soube fazer: assinar mensagens. Este repositório mostra esse núcleo (prova de titularidade), propõe uma camada opcional que tentaria amarrá-lo a uma pessoa viva (*liveness*), e é honesto — inclusive em código — sobre onde o Bitcoin chega sozinho e onde não chega.
 
